@@ -1,6 +1,10 @@
 # Kishu Inu ETH Token
 
+![Kishu Inu ETH Token Deployment & Ownership Archive](assets/kishu-inu-eth-token-banner.png)
+
 This folder documents the original Kishu Inu (`KISHU`) ERC-20 token contract deployed on Ethereum Mainnet.
+
+For deployment funding, deployer, owner Safe, Safe owner addresses, and no-control notes, see [Deployment-And-Ownership.md](Deployment-And-Ownership.md).
 
 ## Contract Reference
 
@@ -9,6 +13,7 @@ This folder documents the original Kishu Inu (`KISHU`) ERC-20 token contract dep
 - Contract: `0xa2b4c0af19cc16a6cfacce81f192b024d625817d`
 - Etherscan: https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d
 - Source file: [KishuInu.sol](KishuInu.sol)
+- Deployment and ownership notes: [Deployment-And-Ownership.md](Deployment-And-Ownership.md)
 - Etherscan contract name: `KishuInu`
 - Solidity compiler shown by Etherscan: `v0.6.12+commit.27d51765`
 - Optimization shown by Etherscan: disabled
