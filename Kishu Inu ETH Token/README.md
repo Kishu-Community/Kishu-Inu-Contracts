@@ -8,7 +8,7 @@ This folder documents the original Kishu Inu (`KISHU`) ERC-20 token contract dep
 - Network: Ethereum Mainnet
 - Contract: `0xa2b4c0af19cc16a6cfacce81f192b024d625817d`
 - Etherscan: https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d
-- Source file: [Kishu.sol](Kishu.sol)
+- Source file: [KishuInu.sol](KishuInu.sol)
 - Etherscan contract name: `KishuInu`
 - Solidity compiler shown by Etherscan: `v0.6.12+commit.27d51765`
 - Optimization shown by Etherscan: disabled
