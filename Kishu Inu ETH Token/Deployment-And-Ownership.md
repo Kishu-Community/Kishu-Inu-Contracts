@@ -125,6 +125,22 @@ In plain English, the Safe required 2 of the 3 listed owners to approve Safe tra
 
 Reviewers should verify the current Safe owner list and threshold directly on Safe or Etherscan before relying on this historical setup event.
 
+## Safe Owner Address Activity Notes
+
+A live Ethereum RPC check on 2026-05-10 showed the current Safe owner set and threshold still matched the setup event:
+
+- Owners: `0x90eAd86FCa54eE9a1FE1C55C0ACE5896f4319802`, `0x7cA5A38e51c253Ef843e418c0b7115ac1cB35f75`, `0x05C0d0B47e6334c3C170DDB6f3d2Fa7001ff6014`
+- Threshold: `2`
+
+Two of the three Safe owner addresses currently show no normal outgoing transaction history, no ETH balance, and no contract code:
+
+- [`0x7cA5A38e51c253Ef843e418c0b7115ac1cB35f75`](https://etherscan.io/address/0x7ca5a38e51c253ef843e418c0b7115ac1cb35f75) - nonce `0`, balance `0 ETH`, no contract code.
+- [`0x05C0d0B47e6334c3C170DDB6f3d2Fa7001ff6014`](https://etherscan.io/address/0x05c0d0b47e6334c3c170ddb6f3d2fa7001ff6014) - nonce `0`, balance `0 ETH`, no contract code.
+
+This does not prevent those addresses from being valid Safe owners. Safe owners can sign messages off-chain, and a different address can submit the final Safe transaction on-chain.
+
+Public on-chain records alone do not prove whether the three Safe owner keys were controlled by three separate people, fewer people, one entity, cold/offline signing keys, backup keys, or another arrangement. The lack of transaction history on two owner addresses is worth documenting, but it should be treated as an observation, not proof of shared control.
+
 ## What The Token Owner Can Do
 
 The token source includes these owner-only controls:
