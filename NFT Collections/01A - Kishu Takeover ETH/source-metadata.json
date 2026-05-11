@@ -1,0 +1,9 @@
+{
+  "chain": "Ethereum Mainnet",
+  "address": "0x8a240d66f09a3a1fc8f108adbce5a5ba61702ced",
+  "explorer": "https://etherscan.io/token/0x8a240d66f09a3a1fc8f108adbce5a5ba61702ced#code",
+  "sourceName": "RaribleUserToken",
+  "fetchedAt": "2026-05-11T04:42:54.999Z",
+  "sourceFile": "RaribleUserToken.sol",
+  "abiFile": "ABI.json"
+}

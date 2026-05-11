@@ -1,0 +1,9 @@
+{
+  "chain": "Ethereum Mainnet",
+  "address": "0x0be5dd8dc316a936942b1f58667c9ea1ebb71e07",
+  "explorer": "https://etherscan.io/token/0x0be5dd8dc316a936942b1f58667c9ea1ebb71e07#code",
+  "sourceName": "Kishuverse",
+  "fetchedAt": "2026-05-11T04:42:55.479Z",
+  "sourceFile": "Kishuverse.sol",
+  "abiFile": "ABI.json"
+}

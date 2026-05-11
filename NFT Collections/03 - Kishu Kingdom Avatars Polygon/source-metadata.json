@@ -1,0 +1,11 @@
+{
+  "chain": "Polygon",
+  "address": "0xad411f5a8ba84533b350a2e50a46ba7511edfcae",
+  "explorer": "https://polygonscan.com/token/0xad411f5a8ba84533b350a2e50a46ba7511edfcae#code",
+  "sourcify": "https://repo.sourcify.dev/contracts/partial_match/137/0xad411f5a8ba84533b350a2e50a46ba7511edfcae",
+  "matchType": "Sourcify partial_match",
+  "sourceName": "KishuKingdomAvatars.sol",
+  "fetchedAt": "2026-05-11T04:42:56.450Z",
+  "sourceFile": "KishuKingdomAvatars.sol",
+  "abiFile": "ABI.json"
+}

@@ -22,6 +22,9 @@ This repository is an archive and research workspace. It is not, by itself, proo
 ## Current Contract Folders
 
 - [Kishu Inu ETH Token](Kishu%20Inu%20ETH%20Token/) - Original KISHU ERC-20 token on Ethereum Mainnet.
+- [NFT Collections](NFT%20Collections/) - NFT collection contracts associated with Kishu-branded project history, including Ethereum and Polygon collections.
+
+Important distinction: most NFT collection contracts in this repository do not directly integrate with the original KISHU ERC-20 token contract. A Kishu-branded NFT collection can use Kishu names, symbols, art, websites, or social claims without requiring, staking, burning, rewarding, or reading the KISHU token contract on-chain.
 
 ## Safety Notice
 
