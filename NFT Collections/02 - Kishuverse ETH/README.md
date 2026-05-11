@@ -53,6 +53,12 @@ The current `owner()` can call owner-only functions including:
 
 This repository does not control this contract or the current owner address.
 
+## Community Attribution To Verify
+
+Recovered community notes identify Kishuverse as presented at the time as created or owned by the team members known as `Robinhood` and `Mo Kishu`.
+
+That is a historical attribution note, not on-chain proof of identity or shared wallet control. The on-chain facts verified in this folder are the contract address, deployer address, and current `owner()` address listed above.
+
 ## Follow-Up
 
 Recovered discussion notes suggest there may be a historical connection between a former homepage donation wallet and Kishuverse-related wallet activity. That connection is not verified in this folder yet. It should be documented only after the old donation wallet address and matching public transactions are confirmed.

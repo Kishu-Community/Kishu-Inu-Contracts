@@ -37,7 +37,10 @@ This file keeps the NFT collection archive in historical order as closely as cur
 ## Community Context To Verify
 
 - Kishu Takeover and Kishu Knights were part of, or closely associated with, the original Kishu Crate release context based on recovered community notes.
+- Kishu Takeover is identified in recovered community notes as presented at the time as created or owned by the team member known as `Captain Kishu`.
+- Kishu Knights is identified in recovered community notes as presented at the time as created or owned by the team member known as `CML`.
 - Kishuverse appears later in the public on-chain order and is documented separately because its contract is a standalone ERC-721 minting contract.
+- Kishuverse is identified in recovered community notes as presented at the time as created or owned by the team members known as `Robinhood` and `Mo Kishu`.
 - Kishu Kingdom Avatars should be treated as a separate later NFT/project-era artifact unless current public records prove an active game, contract, or deployment path.
 
 These notes are intentionally separated from the verified on-chain facts above.

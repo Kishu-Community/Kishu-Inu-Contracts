@@ -28,6 +28,12 @@ The current `owner()` value is `0x99834733C91aAE2f5BB0725105c9E843Cb297A27`, whi
 
 That means the current owner is not the original deployer address. The exact ownership-transfer event history still needs to be pulled from a reliable indexed log source and documented separately.
 
+## Community Attribution To Verify
+
+Recovered community notes identify this collection as presented at the time as created or owned by the team member known as `Captain Kishu`.
+
+That is a historical attribution note, not on-chain proof of identity. The on-chain facts verified in this folder are the contract address, deployer address, and current `owner()` address listed above.
+
 ## KISHU Token Integration
 
 No direct integration with the original KISHU ERC-20 token was found in this contract.

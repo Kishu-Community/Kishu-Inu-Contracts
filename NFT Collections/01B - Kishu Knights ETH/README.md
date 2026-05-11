@@ -21,7 +21,9 @@ Kishu Knights is an Ethereum ERC-1155 NFT collection deployed from a Rarible-sty
 
 ## Community Context To Verify
 
-Recovered community notes identify this collection as associated with the Kishu Knights / 3D trading cards release and possibly a team member known as CML. That attribution is not independently proven by this contract source alone and should be verified from public records before being stated as fact.
+Recovered community notes identify this collection as presented at the time as created or owned by the team member known as `CML`.
+
+That is a historical attribution note, not on-chain proof of identity. The on-chain facts verified in this folder are the contract address, deployer address, and current `owner()` address listed above.
 
 ## KISHU Token Integration
 
