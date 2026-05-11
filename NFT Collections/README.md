@@ -12,6 +12,7 @@ These contracts are documented separately from the original KISHU ERC-20 token b
 - Chain: Ethereum
 - Contract: [`0x7ba9a9d77ac6ddcb4d8b63665ca985a2fec6430f`](https://etherscan.io/token/0x7ba9a9d77ac6ddcb4d8b63665ca985a2fec6430f)
 - Current owner/admin checked: [`0x90eAd86FCa54eE9a1FE1C55C0ACE5896f4319802`](https://etherscan.io/address/0x90eAd86FCa54eE9a1FE1C55C0ACE5896f4319802)
+- Related public archive repo: [kishucrate-interface-public](https://github.com/Kishu-Community/kishucrate-interface-public)
 - Notes: Rarible-style ERC-1155 collection.
 
 ### 01A - Kishu Takeover ETH
@@ -20,6 +21,7 @@ These contracts are documented separately from the original KISHU ERC-20 token b
 - Chain: Ethereum
 - Contract: [`0x8a240d66f09a3a1fc8f108adbce5a5ba61702ced`](https://etherscan.io/token/0x8a240d66f09a3a1fc8f108adbce5a5ba61702ced)
 - Current owner/admin checked: [`0x99834733C91aAE2f5BB0725105c9E843Cb297A27`](https://etherscan.io/address/0x99834733C91aAE2f5BB0725105c9E843Cb297A27)
+- Related public archive repo: [kishucrate-interface-public](https://github.com/Kishu-Community/kishucrate-interface-public)
 - Notes: Rarible-style ERC-1155 collection. Current owner differs from deployer.
 
 ### 01B - Kishu Knights ETH
@@ -28,6 +30,7 @@ These contracts are documented separately from the original KISHU ERC-20 token b
 - Chain: Ethereum
 - Contract: [`0x3f07e5d9fdbdb4baf018eb466faa1754d882572e`](https://etherscan.io/token/0x3f07e5d9fdbdb4baf018eb466faa1754d882572e)
 - Current owner/admin checked: [`0x629CeCc4cBfbf5984139B6afB68c1dbaC82Bc4D4`](https://etherscan.io/address/0x629CeCc4cBfbf5984139B6afB68c1dbaC82Bc4D4)
+- Related public archive repo: [kishucrate-interface-public](https://github.com/Kishu-Community/kishucrate-interface-public)
 - Notes: Rarible-style ERC-1155 collection.
 
 ### 02 - Kishuverse ETH
@@ -36,6 +39,7 @@ These contracts are documented separately from the original KISHU ERC-20 token b
 - Chain: Ethereum
 - Contract: [`0x0be5dd8dc316a936942b1f58667c9ea1ebb71e07`](https://etherscan.io/token/0x0be5dd8dc316a936942b1f58667c9ea1ebb71e07)
 - Current owner/admin checked: [`0xc38568F9C9080de06fA924c4353F8616aa502c1f`](https://etherscan.io/address/0xc38568F9C9080de06fA924c4353F8616aa502c1f)
+- Related public archive repo: [kishuverse-interface-public](https://github.com/Kishu-Community/kishuverse-interface-public)
 - Notes: ERC-721 collection with paid minting logic.
 
 ### 03 - Kishu Kingdom Avatars Polygon
@@ -44,6 +48,7 @@ These contracts are documented separately from the original KISHU ERC-20 token b
 - Chain: Polygon
 - Contract: [`0xad411f5a8ba84533b350a2e50a46ba7511edfcae`](https://polygonscan.com/token/0xad411f5a8ba84533b350a2e50a46ba7511edfcae)
 - Current owner/admin checked: [`0x35e45f9DA89143F5aB6ea705784beB65482875fA`](https://polygonscan.com/address/0x35e45f9DA89143F5aB6ea705784beB65482875fA)
+- Related public archive repo: [kishu-kingdom-web-frontend](https://github.com/Kishu-Community/kishu-kingdom-web-frontend)
 - Notes: Polygon ERC-721 avatar collection. Source archived from Sourcify partial match.
 
 ## Verification Notes

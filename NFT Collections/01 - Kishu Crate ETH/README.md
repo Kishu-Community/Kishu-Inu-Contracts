@@ -19,6 +19,12 @@ Kishu Crate is an Ethereum ERC-1155 NFT collection deployed from a Rarible-style
 | Creation transaction | [`0xb230eadb255176fd8be88b6a95069536126e82a0bad6e818617ee3ddc325820a`](https://etherscan.io/tx/0xb230eadb255176fd8be88b6a95069536126e82a0bad6e818617ee3ddc325820a) |
 | Marketplace reference | [OpenSea Kishu Crate](https://opensea.io/collection/kishu-crate) |
 
+## Related Public Archive Repo
+
+- [kishucrate-interface-public](https://github.com/Kishu-Community/kishucrate-interface-public)
+
+That repo documents the recovered public Kishu Crate interface and historical farm/platform expectations. It is separate from this NFT contract archive and does not give control over this deployed NFT contract.
+
 ## KISHU Token Integration
 
 No direct integration with the original KISHU ERC-20 token was found in this contract.

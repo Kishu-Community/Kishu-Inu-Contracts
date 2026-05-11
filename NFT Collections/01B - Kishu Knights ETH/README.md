@@ -19,6 +19,12 @@ Kishu Knights is an Ethereum ERC-1155 NFT collection deployed from a Rarible-sty
 | Creation transaction | [`0xe673fada3b3646a4e2262d40d7518403c8ccebb36c9527dc4e1a8160af2bcb2d`](https://etherscan.io/tx/0xe673fada3b3646a4e2262d40d7518403c8ccebb36c9527dc4e1a8160af2bcb2d) |
 | Marketplace reference | [OpenSea Kishu Knights](https://opensea.io/collection/kishu-knights) |
 
+## Related Public Archive Repo
+
+- [kishucrate-interface-public](https://github.com/Kishu-Community/kishucrate-interface-public)
+
+Recovered community notes place Kishu Knights in or around the original Kishu Crate release context. The Kishu Crate public archive repo is therefore the related platform/context repo, while this folder keeps the Knights collection contract facts separate.
+
 ## Community Context To Verify
 
 Recovered community notes identify this collection as presented at the time as created or owned by the team member known as `CML`.

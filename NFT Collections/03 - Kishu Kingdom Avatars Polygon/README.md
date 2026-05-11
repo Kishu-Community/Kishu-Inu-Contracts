@@ -20,6 +20,12 @@ The Solidity source in this folder was copied from Sourcify `partial_match`, not
 | Current owner checked | [`0x35e45f9DA89143F5aB6ea705784beB65482875fA`](https://polygonscan.com/address/0x35e45f9DA89143F5aB6ea705784beB65482875fA) |
 | Marketplace reference | [OpenSea Kishu Kingdom Avatars](https://opensea.io/collection/kishukingdomavatars) |
 
+## Related Public Archive Repo
+
+- [kishu-kingdom-web-frontend](https://github.com/Kishu-Community/kishu-kingdom-web-frontend)
+
+That repo documents the recovered Kishu Kingdom frontend repository status and the public references found for the broader Kishu Kingdom project. It is separate from this NFT contract archive and does not prove a delivered game build or give control over this deployed NFT contract.
+
 ## Current Read Values
 
 Checked by read-only on-chain calls on May 11, 2026:

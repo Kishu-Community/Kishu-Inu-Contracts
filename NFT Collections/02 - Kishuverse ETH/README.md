@@ -19,6 +19,12 @@ Kishuverse is an Ethereum ERC-721 NFT collection with paid minting logic.
 | Creation transaction | [`0x715189797475a7320ab1a6f4f4919e475075fb6fecf570d2fe5da75e1569c8d6`](https://etherscan.io/tx/0x715189797475a7320ab1a6f4f4919e475075fb6fecf570d2fe5da75e1569c8d6) |
 | Marketplace reference | [OpenSea Kishuverse](https://opensea.io/collection/kishuverse) |
 
+## Related Public Archive Repo
+
+- [kishuverse-interface-public](https://github.com/Kishu-Community/kishuverse-interface-public)
+
+That repo documents the recovered Kishuverse interface and the difference between the historical wallet/minting frontend and the current read-only public archive. It is separate from this NFT contract archive and does not give control over this deployed NFT contract.
+
 ## Current Read Values
 
 Checked by read-only on-chain calls on May 11, 2026:
